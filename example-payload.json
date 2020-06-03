@@ -1,0 +1,14 @@
+{
+  "batch": [
+    {
+      "paymentId": "12345",
+      "amount": 19.99,
+      "currency": "GBP"
+    },
+    {
+      "paymentId": "67890",
+      "amount": 120,
+      "currency": "USD"
+    }
+  ]
+}
